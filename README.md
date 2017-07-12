@@ -32,20 +32,16 @@ a perfect score!
 ## Dependencies and Requirements
 
 
-* python3 [mac download tutorial](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/osx/) Generally just a `brew install python3`
-
-* The [Google Chrome Web
-  Browser](https://www.google.com/chrome/browser/desktop/index.html)
+* [python3](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/osx/) 
+  + Generally just a `brew install python3`
+* [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [selenium for Python3](https://pypi.python.org/pypi/selenium)
-  Generally just a `pip3 install selenium`
-* [Chrome
-  Driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-  Make sure the executable is in your `$PATH` somewhere
-* [BeautifulSoup4 for Python3](https://pypi.python.org/pypi/beautifulsoup4)
-  Generally just a `pip3 install bs4`
-
-* the beautiful one liner:
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";brew install python3;`
+  + Generally just a `pip3 install selenium`
+  + Only need for playing kahoot
+* [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+  + Make sure the executable is in your `$PATH` somewhere
+  + Only need for playing kahoot
+  
 ## FAQ
  + please see the [wiki](https://github.com/reteps/kbot/wiki/FAQ)
 ## Contributors
